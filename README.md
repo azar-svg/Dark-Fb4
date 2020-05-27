@@ -16,4 +16,4 @@ $git clone https://github.com/azar-svg/hackfb-2020
 
 $cd dark-FB-v.1.1
 
-$python2 Darkfb.py
+$python2 hackfb.py
